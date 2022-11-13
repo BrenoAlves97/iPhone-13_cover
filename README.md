@@ -7,7 +7,7 @@
 
 - HTML
 - CSS
-- Será implementado o JS. (O usuário irá interagir com as opções e a imagem irá alterar conforme o selecionado.)
+- JAVASCRIPT - DOM
 
 # 1° parte do layout: 
 
@@ -18,7 +18,5 @@
 ![image](https://user-images.githubusercontent.com/100312812/201531523-aa98f4c7-5739-4017-bd5d-7812db1055d0.png)
 
 # Escolhendo a cor - Dourado: 
-
-- Ex: 
 
 ![image](https://user-images.githubusercontent.com/100312812/201539279-fcc9d2d9-b20c-42cb-99de-53324985d489.png)
