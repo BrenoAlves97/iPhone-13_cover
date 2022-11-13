@@ -20,3 +20,8 @@
 # Escolhendo a cor - Dourado: 
 
 ![image](https://user-images.githubusercontent.com/100312812/201539279-fcc9d2d9-b20c-42cb-99de-53324985d489.png)
+
+# Azul-Sierra: 
+
+![image](https://user-images.githubusercontent.com/100312812/201543700-4725e9b1-76d9-475b-a87d-4b54a35aa01f.png)
+
