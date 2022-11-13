@@ -1,4 +1,4 @@
-# iPhone 13 Pro. (Em desenvolvimento)
+# iPhone 13 Pro. 
 - Página estática do iPhone 13 Pro.
 
 - Página com imagens do iPhone 13, na qual o usuário poderá visualizar o dispositivo nas cores disponíveis.
