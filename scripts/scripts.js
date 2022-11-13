@@ -5,19 +5,21 @@ buttons.forEach((btn) => {
     btn.addEventListener('click', (e) => {
         console.log(e);
 
-        // buttons.forEach((btn) => btn.querySelector('.color').classList.remove('.selected'));
-      
-        const btn = e.target;
+        buttons.forEach((btn) => {
+            btn.firstElementChild.classList.remove('selected');
+        });
 
+        const button = e.target;
+        
         const idValue = btn.getAttribute('id');
 
-        // btn.querySelector('.color').classList.add('.selected');
+        button.querySelector('.color').classList.add('selected');
 
         image.classList.toggle('.changing');
         image.setAttribute('src', `../../assets/imgs/iphone_${idValue}.jpg`);
 
-        // setTimeout(() => {
-        //     image.classList.toggle('.changing')
-        // }, 200);
+        setTimeout(() => {
+            image.classList.toggle('changing')
+        }, 200);
     });
 });

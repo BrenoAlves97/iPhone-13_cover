@@ -169,11 +169,12 @@
 
 #product-image {
     opacity: 1;
-    transition: 0.5s; 
+    transition: .4s; 
 }
 
 #product-image.changing {
-    opacity: .5;
+    transition: .4s;
+    opacity: .9;
 }
 
 /* Pickers - Li */
